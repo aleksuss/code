@@ -1,0 +1,16 @@
+Example of Test Case file TDD, Test Driven Development:
+/////////Case 1//////
+*
+Input Data
+
+Output Data
+
+/////////////////////
+/////////Case 2//////
+*
+Input Data
+
+Output Data
+
+/////////////////////
+etc 

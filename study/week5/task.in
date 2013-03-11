@@ -1,0 +1,1 @@
+Most of the time, the method provided by Kerrek is sufficient. But if N is very large, and M is orders of magnitude smaller, the following method may be preferred.
